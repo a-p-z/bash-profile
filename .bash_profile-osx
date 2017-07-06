@@ -1,0 +1,8 @@
+export CLICOLOR=1
+export LSCOLORS=GxFxCxDxBxegedabagaced
+alias ls='ls -F'
+alias sublime='open -a "Sublime Text"'
+alias finder='open -a Finder'
+alias cp='cp -iv'
+alias mv='mv -iv'
+alias mkdir='mkdir -pv'
